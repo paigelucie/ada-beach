@@ -3,6 +3,6 @@ cat > poolMetaData.json << EOF
 > "name": "Cardano at the beach",
 > "description": "We believe in blockchain.  We believe in fairness to all.  We believe in the future.",
 > "ticker": "BEACH",
-> "homepage": ""
+> "homepage": "TBD"
 > }
 > EOF
